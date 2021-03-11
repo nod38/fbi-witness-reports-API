@@ -1,0 +1,14 @@
+# local data
+reports.csv
+logs
+
+# API keys and secrets
+.env
+
+# Dependency directory
+node_modules
+
+# Editors
+.idea
+*.iml
+.vscode
